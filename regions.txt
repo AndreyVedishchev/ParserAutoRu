@@ -1,0 +1,7 @@
+krasnodarskiy_kray
+stavropolskiy_kray
+moskva
+nizhegorodskaya_oblast
+voronezhskaya_oblast
+lipetskaya_oblast
+sankt-peterburg
